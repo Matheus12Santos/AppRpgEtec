@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PAM-II\\MAUI\\AppRpgEtec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\views\\usuarios\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\views\\usuarios\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\views\\usuarios\\cadastroview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\cadastroview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\viewmodels\\usuarios\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\usuarios\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\views\\usuarios\\cadastroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\cadastroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\services\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|c:\\pam-ii\\maui\\apprpgetec\\apprpgetec\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9729A1A2-F4DC-4255-AEED-2446970DEDB9}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroView.xaml.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:20:37.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastroView.xaml",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T00:19:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:47:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\App.xaml.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\App.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:45:51.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:44:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T22:42:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:03:55.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:03:05.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:56:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Services\\Request.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Request.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Services\\Request.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Request.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:54:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Usuario.cs",
+              "ToolTip": "C:\\PAM-II\\MAUI\\AppRpgEtec\\AppRpgEtec\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:52:01.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
