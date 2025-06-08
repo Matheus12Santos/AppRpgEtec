@@ -1,0 +1,29 @@
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Pastas de compilação
+bin/
+obj/
+build/
+out/
+
+# Pacotes NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Configurações locais
+*.DotSettings.user
+*.sln.docstates
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
