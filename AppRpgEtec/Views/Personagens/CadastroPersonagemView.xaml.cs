@@ -4,10 +4,10 @@ namespace AppRpgEtec.Views.Personagens;
 
 public partial class CadastroPersonagemView : ContentPage
 {
-	public CadastroPersonagemViewModel cadViewModel;
+	private CadastroPersonagemViewModel cadViewModel;
 	public CadastroPersonagemView()
 	{
-        InitializeComponent();
+		InitializeComponent();
 
 		cadViewModel = new CadastroPersonagemViewModel();
 		BindingContext = cadViewModel;
