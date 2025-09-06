@@ -8,6 +8,9 @@ namespace AppRpgEtec
         {
             InitializeComponent();
 
+            string login = Preferences.Get("UsuarioUsername", string.Empty);
+            lblogin.Text = login;
+
             Routing.RegisterRoute("cadPersonagemView", typeof(CadastroPersonagemView));   
         }
     }
