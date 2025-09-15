@@ -8,12 +8,21 @@ using System.Threading.Tasks;
 using System.ComponentModel; // Adicione isso
 using System.Runtime.CompilerServices; // Adicione isso
 using Map = Microsoft.Maui.Controls.Maps.Map;
+using AppRpgEtec.Services.Usuarios;
+using System.Collections.ObjectModel;
+using AppRpgEtec.Models;
 
 namespace AppRpgEtec.ViewModels.Usuarios
 {
     public class LocalizacaoViewModel : INotifyPropertyChanged
     {
         private Map meuMapa;
+        private UsuarioService uService;
+        public LocalizacaoViewModel()
+        {
+            string token = Preferences.Get("UsuarioToken", string.Empty);
+            uService = new UsuarioService(token);
+        }
 
         public event PropertyChangedEventHandler PropertyChanged;
         public Map MeuMapa
@@ -57,6 +66,40 @@ namespace AppRpgEtec.ViewModels.Usuarios
                 meuMapa = map;
             }
             catch (Exception ex)
+            {
+                await Application.Current.MainPage.DisplayAlert("Erro", ex.Message, "OK");
+            }
+        }
+
+        public async void ExibirUsuariosNoMapa()
+        {
+            try
+            {
+                ObservableCollection<Usuario> ocUsuarios = await uService.GetUsuariosAsync();
+                List<Usuario> listaUsuarios = new List<Usuario>(ocUsuarios);
+                Map map = new Map();
+
+                foreach (Usuario u in listaUsuarios)
+                {
+                    if (u.Latitude != null && u.Longitude != null)
+                    {
+                        double latitude = (double)u.Latitude;
+                        double longitude = (double)u.Longitude;
+                        Location location = new Location(latitude, longitude);
+
+                        Pin pinAtual = new Pin()
+                        {
+                            Type = PinType.Place,
+                            Label = u.Username,
+                            Address = $"E-mail: {u.Email}",
+                            Location = location
+                        };
+                        map.Pins.Add(pinAtual);
+                    }
+                }
+                MeuMapa = map;
+            }
+            catch(Exception ex)
             {
                 await Application.Current.MainPage.DisplayAlert("Erro", ex.Message, "OK");
             }
