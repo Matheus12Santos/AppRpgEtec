@@ -42,5 +42,16 @@ namespace AppRpgEtec.Services.Personagens
         {
             string urlComplementar = string.Format("/{0}", personagemId); var result = await _request.DeleteAsync(apiUrlBase + urlComplementar, _token); return result;
         }
+
+        // Matheus Santos | Luca Kenzo
+
+        public async Task<ObservableCollection<Personagem>> GetByNomeAproximadoAsync(string busca)
+        {
+            string urlComplementar = $"/GetByNomeAproximado/{busca}";
+
+            ObservableCollection<Models.Personagem> listaPersonagens = await _request.GetAsync<ObservableCollection<Models.Personagem>>(apiUrlBase + urlComplementar, _token);
+
+            return listaPersonagens;
+        }
     }
 }
