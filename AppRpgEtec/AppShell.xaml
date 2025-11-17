@@ -60,7 +60,7 @@
             Route="MainPage" />
 
         <Tab Title="Info" Route="info" Icon="info.png">
-            <ShellContent Title="Usuário" Route="usuario" ContentTemplate="{DataTemplate viewUsuarios:ImagemUsuarioView}"/>
+            <ShellContent Title="Usuário" Route="usuario" ContentTemplate="{DataTemplate viewsUsuarios:ImagemUsuarioView}"/>
             
             <ShellContent Title="Sobre" Route="sobre" ContentTemplate="{DataTemplate local:AboutView}"/>
 
